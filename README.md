@@ -6,7 +6,7 @@ Soy un apasionado ingeniero en software con experiencia en desarrollo web, princ
 
 ### 🔧 Tecnologías que uso:
 - **JavaScript** (React, Node.js)
-- **CSS Frameworks**: Tailwind CSS
+- **CSS Frameworks**: (Tailwind CSS, Bootstrap)
 - **Python** (para scripts y automatizaciones)
 - **HTML & CSS** (y un poco de SASS)
 - **Diseño UX/UI** (Figma, Adobe XD)

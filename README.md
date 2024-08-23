@@ -1,30 +1,33 @@
-👋 Hola, soy Martín De Jesús Rincón Narcia!
-👨‍💻 Ingeniero en Software | Desarrollador Web | Entusiasta de UX/UI
-Soy un apasionado ingeniero en software con experiencia en desarrollo web, principalmente utilizando JavaScript y Node.js. Disfruto creando aplicaciones web que no solo sean funcionales, sino también atractivas y fáciles de usar. Además, me encanta explorar el mundo del diseño UX/UI para garantizar que cada proyecto sea una experiencia única y placentera para el usuario.
+# 👋 Hola, soy Martín De Jesús Rincón Narcia!
 
-🔧 Tecnologías que uso:
-JavaScript (React, Node.js)
-CSS Frameworks: Tailwind CSS
-Python (para scripts y automatizaciones)
-HTML & CSS (y un poco de SASS)
-Diseño UX/UI (Figma, Adobe XD)
+### 👨‍💻 Ingeniero en Software | Desarrollador Web | Entusiasta de UX/UI
 
-📚 Actualmente aprendiendo:
-Profundizando mis conocimientos en Python.
-Explorando temas avanzados en diseño UX/UI.
-Mejorando mis habilidades en TypeScript.
+Soy un apasionado ingeniero en software con experiencia en desarrollo web, principalmente utilizando **JavaScript** y **Node.js**. Disfruto creando aplicaciones web que no solo sean funcionales, sino también atractivas y fáciles de usar. Además, me encanta explorar el mundo del diseño **UX/UI** para garantizar que cada proyecto sea una experiencia única y placentera para el usuario.
 
-🚀 Proyectos Destacados:
-Estancia 1 en la empresa "INUSUAL SOFTWARE": Creación de app web con uso de React.js.
-Estancia 2 en la empresa "INUSUAL SOFTWARE": Creación de app web con uso de React.js.
+### 🔧 Tecnologías que uso:
+- **JavaScript** (React, Node.js)
+- **CSS Frameworks**: Tailwind CSS
+- **Python** (para scripts y automatizaciones)
+- **HTML & CSS** (y un poco de SASS)
+- **Diseño UX/UI** (Figma, Adobe XD)
 
-🎨 Lo que me inspira:
-Crear interfaces que los usuarios amen.
-Desarrollar soluciones que hagan la vida más fácil.
-Aprender y aplicar nuevas tecnologías.
+### 📚 Actualmente aprendiendo:
+- Profundizando mis conocimientos en **Python**.
+- Explorando temas avanzados en **diseño UX/UI**.
+- Mejorando mis habilidades en **TypeScript**.
 
-🌐 ¿Dónde encontrarme?
-[LinkedIn](www.linkedin.com/in/martin-rincón-narcia-979417290)
+### 🚀 Proyectos Destacados:
+- **Estancia 1 en la empresa "INUSUAL SOFTWARE"**: Creación de app web con uso de React.js.
+- **Estancia 2 en la empresa "INUSUAL SOFTWARE"**: Creación de app web con uso de React.js.
+
+### 🎨 Lo que me inspira:
+- Crear interfaces que los usuarios amen.
+- Desarrollar soluciones que hagan la vida más fácil.
+- Aprender y aplicar nuevas tecnologías.
+
+### 🌐 ¿Dónde encontrarme?
+- [LinkedIn](www.linkedin.com/in/martin-rincón-narcia-979417290)
+
 <!--
 [Twitter](enlace a tu perfil de Twitter)
 [Portafolio](enlace a tu portafolio)

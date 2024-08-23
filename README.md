@@ -8,17 +8,21 @@ CSS Frameworks: Tailwind CSS
 Python (para scripts y automatizaciones)
 HTML & CSS (y un poco de SASS)
 Diseño UX/UI (Figma, Adobe XD)
+
 📚 Actualmente aprendiendo:
-Deepening my knowledge in Python.
-Exploring advanced topics in UX/UI design.
-Improving my skills in TypeScript.
+Profundizando mis conocimientos en Python.
+Explorando temas avanzados en diseño UX/UI.
+Mejorando mis habilidades en TypeScript.
+
 🚀 Proyectos Destacados:
-Estancia 1 en la empresa "INUSUAL SOFTWARE": Creación de app web cpon uso de React.js.
-Estancia 2 en la empresa "INUSUAL SOFTWARE": Creación de app web cpon uso de React.js.
+Estancia 1 en la empresa "INUSUAL SOFTWARE": Creación de app web con uso de React.js.
+Estancia 2 en la empresa "INUSUAL SOFTWARE": Creación de app web con uso de React.js.
+
 🎨 Lo que me inspira:
 Crear interfaces que los usuarios amen.
 Desarrollar soluciones que hagan la vida más fácil.
 Aprender y aplicar nuevas tecnologías.
+
 🌐 ¿Dónde encontrarme?
 [LinkedIn](www.linkedin.com/in/martin-rincón-narcia-979417290)
 <!--

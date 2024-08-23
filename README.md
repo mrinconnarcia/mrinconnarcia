@@ -26,7 +26,7 @@ Soy un apasionado ingeniero en software con experiencia en desarrollo web, princ
 - Aprender y aplicar nuevas tecnologías.
 
 ### 🌐 ¿Dónde encontrarme?
-- [LinkedIn](www.linkedin.com/in/martin-rincón-narcia-979417290)
+- [LinkedIn](https://www.linkedin.com/in/martin-rinc%C3%B3n-narcia-979417290/)
 
 <!--
 [Twitter](enlace a tu perfil de Twitter)

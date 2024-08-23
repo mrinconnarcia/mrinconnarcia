@@ -8,8 +8,8 @@ Soy un apasionado ingeniero en software con experiencia en desarrollo web, princ
 - **JavaScript** (React, Node.js)
 - **CSS Frameworks**: (Tailwind CSS, Bootstrap)
 - **Python** (para scripts y automatizaciones)
-- **HTML & CSS** 
 - **Diseño UX/UI** (Figma, Adobe XD)
+- **HTML & CSS** 
 
 ### 📚 Actualmente aprendiendo:
 - Profundizando mis conocimientos en **Python**.

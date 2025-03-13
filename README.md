@@ -7,8 +7,8 @@ Soy un apasionado ingeniero en software con un enfoque principal en el **desarro
 Aunque mi enfoque está en el front-end, también tengo experiencia en el **desarrollo back-end** utilizando **Node.js** y **Express**, lo que me permite trabajar en el ciclo completo de una aplicación web.
 
 ### 🔧 Tecnologías que uso:
-- **JavaScript** (React, Node.js)
-- **CSS Frameworks**: (Tailwind CSS, Bootstrap)
+- **JavaScript** (React, VUE.js, Node.js, Express.js)
+- **CSS Frameworks**: (Tailwind CSS, Bootstrap, Bulma)
 - **Python** (para scripts y automatizaciones)
 - **Diseño UX/UI** (Figma, Adobe XD)
 - **HTML & CSS** 
@@ -21,6 +21,7 @@ Aunque mi enfoque está en el front-end, también tengo experiencia en el **desa
 ### 🚀 Proyectos Destacados:
 - **Estancia 1 en la empresa "INUSUAL SOFTWARE"**: Creación de app web con uso de React.js.
 - **Estancia 2 en la empresa "INUSUAL SOFTWARE"**: Creación de app web con uso de React.js.
+- **Estadía en la empresa "HighTech"**: Creación de app web con uso de React.js. 
 
 ### 🎨 Lo que me inspira:
 - Crear interfaces que los usuarios amen.

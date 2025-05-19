@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Ingeniero en Software | Desarrollador Web | Entusiasta de UX/UI
 
-Soy un apasionado ingeniero en software con un enfoque principal en el **desarrollo front-end**, utilizando **JavaScript** y frameworks como **React**. Me encanta crear interfaces que no solo sean funcionales, sino también atractivas y fáciles de usar. Además, tengo experiencia en el diseño **UX/UI** para garantizar que cada proyecto sea una experiencia única y placentera para el usuario.
+Soy un apasionado ingeniero en software con un enfoque principal en el **desarrollo front-end**, utilizando **JavaScript** y frameworks como **React**. Me encanta crear interfaces que no solo sean funcionales, sino también atractivas y fáciles de usar, además, tengo experiencia en el diseño **UX/UI** para garantizar que cada proyecto sea una experiencia única y placentera para el usuario.
 
 Aunque mi enfoque está en el front-end, también tengo experiencia en el **desarrollo back-end** utilizando **Node.js** y **Express**, lo que me permite trabajar en el ciclo completo de una aplicación web.
 
@@ -16,12 +16,12 @@ Aunque mi enfoque está en el front-end, también tengo experiencia en el **desa
 ### 📚 Actualmente aprendiendo:
 - Profundizando mis conocimientos en **Python**.
 - Explorando temas avanzados en **diseño UX/UI**.
-- Mejorando mis habilidades en **TypeScript**.
+- Mejorando mis habilidades en **JS**.
 
 ### 🚀 Proyectos Destacados:
 - **Estancia 1 en la empresa "INUSUAL SOFTWARE"**: Creación de app web con uso de React.js.
 - **Estancia 2 en la empresa "INUSUAL SOFTWARE"**: Creación de app web con uso de React.js.
-- **Estadía en la empresa "HighTech"**: Creación de app web con uso de React.js. 
+- **Estadía en la empresa "HighTech"**: Creación de app web con uso de React.js.
 
 ### 🎨 Lo que me inspira:
 - Crear interfaces que los usuarios amen.
